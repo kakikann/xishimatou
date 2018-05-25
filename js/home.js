@@ -75,6 +75,8 @@ $('.ts_items').hover(function(){
 		$('.main-bg').css("background","url(../img/main_bg.jpg) no-repeat center center")
 	}
 	})
+
+	
 	
 
 
